@@ -45,7 +45,7 @@
 
 @media(max-width:500px){
     .container{
-        vertical-align: middle;
+        padding-top:280px;
     }
     .logo{
         height:120px;
